@@ -1092,3 +1092,116 @@ Neste capítulo, você aprenderá sobre fontes de alimentação para PCs e as vo
 É importante não apenas aprender sobre montagem de componentes de computador, mas também desenvolver habilidades práticas. Neste capítulo, há vários laboratórios onde você montará um computador. Cada um dos laboratórios pede para você instalar progressivamente componentes como fonte de alimentação, CPU, RAM, drives, placas adaptadoras e cabos até que a montagem do computador esteja completa.
 
 ### 2.1 Montar o Computador
+
+### 2.1.1 Segurança Geral e Contra Incêndios
+#### 2.1.1.1 Explicação em vídeo - Segurança Geral e Contra Incêndios
+
+No vídeo, foi apresentada uma explicação sobre a importância da segurança no ambiente de trabalho, principalmente durante a manutenção de computadores e outros equipamentos eletrônicos.
+
+Primeiramente, o apresentador explicou que é necessário retirar relógios e joias, prender roupas soltas e desligar e desconectar os equipamentos antes de realizar qualquer manutenção. Também destacou a importância de manter o local de trabalho limpo e organizado, sem alimentos, bebidas ou objetos desnecessários.
+
+Em seguida, mostrou alguns cuidados para evitar acidentes, como proteger partes pontiagudas dentro do gabinete do computador e nunca abrir fontes de alimentação ou monitores que possuam uma fonte integrada, devido aos riscos elétricos. Além disso, ressaltou a importância de utilizar óculos de segurança para proteger os olhos durante o trabalho.
+
+O vídeo também abordou a maneira correta de levantar equipamentos pesados, como computadores, impressoras e servidores. Foi explicado que devemos dobrar os joelhos ao levantar esses objetos para evitar lesões nas costas.
+
+Outro assunto importante apresentado foi a prevenção e o combate a incêndios. O apresentador explicou que é necessário saber onde fica o extintor de incêndio mais próximo, conhecer seu funcionamento e verificar se ele está em boas condições de uso. Ele também alertou que nunca devemos tentar apagar um incêndio que esteja fora de controle. Nesses casos, devemos sair do local em segurança e chamar os serviços de emergência.
+
+Depois, foi demonstrada a maneira básica de utilizar um extintor de incêndio por meio da palavra PASS: puxar o pino de segurança, apontar o bico para a base do fogo, apertar a alavanca e movimentar o jato de um lado para o outro. O apresentador também explicou que existem diferentes tipos de extintores, cada um indicado para determinadas classes de incêndio, como os que envolvem papel, madeira, líquidos inflamáveis e equipamentos elétricos.
+
+Por fim, o vídeo mostrou um extintor sendo utilizado na prática, reforçando a importância de conhecer os equipamentos de segurança e saber como agir em situações de emergência.
+
+Concluindo, o vídeo demonstrou que seguir as normas de segurança, utilizar os equipamentos de proteção e manter o ambiente organizado são atitudes fundamentais para prevenir acidentes e garantir a segurança durante a manutenção de computadores e outros equipamentos eletrônicos.
+
+### 2.1.2 Abra a caixa e conecte a fonte de alimentação
+#### 2.1.2.1 Demonstração em vídeo - Instalar a fonte de alimentação
+
+No vídeo, foi apresentada a instalação de uma fonte de alimentação, também conhecida como PSU, em uma torre de computador. Primeiramente, o apresentador preparou o ambiente de trabalho utilizando um tapete e uma pulseira antiestática, para proteger os componentes contra descargas eletrostáticas.
+
+Em seguida, posicionou o gabinete do computador e explicou onde fica o compartimento destinado à fonte de alimentação. Depois, utilizou uma chave de fenda para remover o parafuso e retirar a tampa lateral do gabinete, permitindo visualizar seu interior.
+
+Na sequência, o apresentador mostrou a fonte de alimentação que seria instalada, explicando que ela possuía uma potência de 450 watts e estava configurada para 115 volts, padrão utilizado nos Estados Unidos. Também destacou a importância de escolher uma fonte adequada à configuração do computador, considerando o consumo de energia do processador, da placa de vídeo e dos demais componentes.
+
+Depois disso, a fonte foi posicionada no compartimento apropriado, alinhando seus orifícios com os do gabinete. Após encaixá-la corretamente, o apresentador utilizou quatro parafusos para fixá-la, garantindo que permanecesse firme e segura.
+
+Por fim, ele ressaltou que escolher a potência correta da fonte é essencial para o funcionamento adequado do computador e para evitar a necessidade de substituí-la futuramente. Assim, o vídeo demonstrou as principais etapas da instalação de uma fonte de alimentação, destacando a importância da proteção contra eletricidade estática, do posicionamento correto e da fixação segura do componente.
+
+#### 2.1.2.3 Selecione a Caixa e os Ventiladores
+A escolha da placa-mãe e dos componentes externos influencia a escolha do gabinete e da fonte de alimentação. O formato da placa-mãe deve ser combinado com o tipo correto de gabinete e fonte de alimentação. Por exemplo, uma placa-mãe ATX requer tanto um gabinete compatível com ATX quanto uma fonte de alimentação.
+
+Você pode escolher uma caixa maior para acomodar componentes adicionais que possam ser necessários no futuro. Ou pode escolher um gabinete menor que requer pouco espaço. Em geral, a caixa do computador deve ser durável, fácil de manutenção e ter espaço suficiente para expansão.
+
+##### Tipo de modelo
+
+O tipo de placa-mãe que você escolher determina o tipo de gabinete que pode ser usado. O tamanho e a forma precisam coincidir exatamente.
+
+##### Tamanho
+
+Se um computador tem muitos componentes, ele precisará de mais espaço para o fluxo de ar manter o sistema frio.
+
+##### Fonte de alimentação
+
+Você deve combinar a potência nominal e o tipo de conexão da fonte com o tipo de placa-mãe que escolheu.
+
+##### Aparência
+
+Para algumas pessoas, a aparência do estojo não importa nem um pouco. Para outros, é fundamental. Existem muitos designs de case para escolher, caso seja necessário ter um case atraente.
+
+##### Exibição de status
+
+O que está acontecendo dentro da caixa pode ser muito importante. Indicadores LED montados na parte externa do gabinete podem indicar se o sistema está recebendo energia, quando o HD está sendo usado e quando o computador está em modo de suspensão ou hibernação.
+
+##### Ventilação
+
+Todas as caixas têm uma saída de ar na fonte de energia, e algumas têm outra saída de ar na parte de trás para ajudar a puxar ar para dentro ou para fora do sistema. Algumas caixas são projetadas com mais saídas de ar caso o sistema precise de uma forma de dissipar uma quantidade incomum de calor. Essa situação pode ocorrer quando muitos dispositivos são instalados próximos uns dos outros dentro do carcaça.
+
+Os gabinetes geralmente vêm com uma fonte de alimentação pré-instalada. Nessa situação, você ainda precisa verificar se a fonte fornece energia suficiente para operar todos os componentes que serão instalados no gabinete.
+
+Um computador possui muitos componentes internos que geram calor enquanto está funcionando. Ventiladores de gabinete devem ser instalados para mover o ar mais frio para dentro do gabinete do computador enquanto o calor sai do gabinete. Ao escolher ventiladores de gabinete, há vários fatores a considerar, conforme descrito na tabela a seguir.
+
+**Nota**: A direção do fluxo de ar criada por todos os ventiladores no gabinete deve funcionar em conjunto para injetar ar mais frio e expulsar ar mais quente. Instalar um ventilador ao contrário ou usar ventiladores com tamanho ou velocidade incorretos para o gabinete pode fazer com que o fluxo de ar fique em conflito.
+
+<table class="w-full border-collapse text-left">
+        <thead>
+            <tr class="bg-gray-900 border-b border-gray-800">
+                <th class="py-4 px-6 text-sm font-semibold tracking-wide text-gray-300 w-1/3">Fatores</th>
+                <th class="py-4 px-6 text-sm font-semibold tracking-wide text-gray-300 w-2/3">Considere</th>
+            </tr>
+        </thead>
+        <tbody class="divide-y divide-gray-800/60 bg-gray-900/40 text-sm">
+            <!-- Linha 1 -->
+            <tr class="hover:bg-gray-900/70 transition-colors">
+                <td class="py-4 px-6 font-medium text-gray-200 align-top">Tamanho do gabinete</td>
+                <td class="py-4 px-6 text-gray-300 align-top">Gabinetes maiores frequentemente exigem ventiladores maiores porque ventiladores menores não conseguem gerar fluxo de ar suficiente.</td>
+            </tr>
+            <!-- Linha 2 -->
+            <tr class="hover:bg-gray-900/70 transition-colors">
+                <td class="py-4 px-6 font-medium text-gray-200 align-top">Velocidade do ventilador</td>
+                <td class="py-4 px-6 text-gray-300 align-top">Ventiladores maiores podem girar mais lentamente que os menores, o que reduz o ruído dos ventiladores.</td>
+            </tr>
+            <!-- Linha 3 -->
+            <tr class="hover:bg-gray-900/70 transition-colors">
+                <td class="py-4 px-6 font-medium text-gray-200 align-top">Número de componentes</td>
+                <td class="py-4 px-6 text-gray-300 align-top">Múltiplos componentes em um computador geram calor adicional, o que exige mais ventiladores, ventiladores maiores ou ventiladores mais rápidos.</td>
+            </tr>
+            <!-- Linha 4 -->
+            <tr class="hover:bg-gray-900/70 transition-colors">
+                <td class="py-4 px-6 font-medium text-gray-200 align-top">Ambiente físico</td>
+                <td class="py-4 px-6 text-gray-300 align-top">Os ventiladores do gabinete precisam ser capazes de dispersar calor suficiente para manter o interior do gabinete fresco.</td>
+            </tr>
+            <!-- Linha 5 -->
+            <tr class="hover:bg-gray-900/70 transition-colors">
+                <td class="py-4 px-6 font-medium text-gray-200 align-top">Número de locais de montagem disponíveis</td>
+                <td class="py-4 px-6 text-gray-300 align-top">Caixas diferentes têm diferentes números de pontos de montagem para ventiladores.</td>
+            </tr>
+            <!-- Linha 6 -->
+            <tr class="hover:bg-gray-900/70 transition-colors">
+                <td class="py-4 px-6 font-medium text-gray-200 align-top">Local dos lugares de montagem disponíveis</td>
+                <td class="py-4 px-6 text-gray-300 align-top">Caixas diferentes têm locais diferentes para montar ventiladores.</td>
+            </tr>
+            <!-- Linha 7 -->
+            <tr class="hover:bg-gray-900/70 transition-colors">
+                <td class="py-4 px-6 font-medium text-gray-200 align-top">Conexões elétricas</td>
+                <td class="py-4 px-6 text-gray-300 align-top">Alguns ventiladores do gabinete são conectados diretamente à placa-mãe, enquanto outros estão conectados diretamente à fonte de alimentação.</td>
+            </tr>
+        </tbody>
+    </table>
